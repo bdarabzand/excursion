@@ -26,6 +26,10 @@ a{
     font-weight: normal;
 }
 
+#video{
+    text-align: center;
+}
+
 p{
     font-family: Veranda;
     font-weight: normal;
